@@ -4,8 +4,8 @@
 </em></p>
 
 [![Linkedin: prastianhdd](https://img.shields.io/badge/-prastianhdd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/username)](https://www.linkedin.com/in/username)
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C790%20hrs%2034%20mins-blue)
-![Profile Views](https://komarev.com/ghpvc/?username=prastianhd&label=Profile%20views&color=0e75b6&style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C690%20hrs%2034%20mins-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=prastianhdd&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center">
   <a href="https://github.com/prastianhdd">    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+(wannabe);Lagi+belajar+coding...;Suka+explore+teknologi+baru;Fixing+one+bug%2C+creating+two+more...;Jangan+lupa+follow+yak!+😉" alt="Animasi Teks Ketik">
   </a>
@@ -17,8 +17,8 @@
 ```python
 prastian = {
     "status": "Lagi ngopi ☕",
-    "skillset": ["HTML", "CSS", "JavaScript", "Python", "PHP", ],
-    "tools": ["VS Code", "Browser 10 Tab", "Kopi Hitam Gayo"],
+    "skillset": ["HTML", "CSS", "JavaScript", "Python", "NextJS", ],
+    "tools": ["VS Code", "Browser 10 Tab", "Kopi Hitam"],
     "kondisi_harian": [
         "Bangun",
         "Ngopi",
