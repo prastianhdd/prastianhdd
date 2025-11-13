@@ -1,6 +1,6 @@
 <h2> Hi, I'm @prastianhdd! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Mahasiswa (semoga lancar) di <a href="https://universitasputrabangsa.ac.id/">Putra Bangsa University -   </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh6aWs4Z2tvaWd6MTQzdWk4MXNkeXBiM3BscGd2NzlpODB6cWlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="240">
+<p><em>Mahasiswa (semoga lancar) di <a href="https://universitasputrabangsa.ac.id/">Putra Bangsa University 
 </em></p>
 
 [![Linkedin: prastianhdd](https://img.shields.io/badge/-prastianhdd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/username)](https://www.linkedin.com/in/username)
