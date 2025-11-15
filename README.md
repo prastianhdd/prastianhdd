@@ -13,19 +13,6 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh6aWs4Z2tvaWd6MTQzdWk4MXNkeXBiM3BscGd2NzlpODB6cWlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="240">
-    </td>
-    <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVtdHRva2g1eGw1YW5obnh5eDY3cXZ6dWoxb21ydWY2OGNhNDY4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwxDAjxalRVQoq36Iu/giphy.gif" width="240">
-    </td>
-        <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh6aWs4Z2tvaWd6MTQzdWk4MXNkeXBiM3BscGd2NzlpODB6cWlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="240">
-    </td>
-  </tr>
-</table>
 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sedikit tentang saya...
