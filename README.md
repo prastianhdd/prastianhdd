@@ -4,7 +4,7 @@
 
 [![Linkedin: prastianhdd](https://img.shields.io/badge/-prastianhdd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/username)](https://www.linkedin.com/in/username)
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C690%20hrs%2034%20mins-blue)
-![Profile Views](https://komarev.com/ghpvc/?username=prastianhdd&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 <p align="center">
@@ -34,3 +34,5 @@ prastian = {
     ],
     "mimpi": "Tercapainya Finansial Freedom 🤲"
 }
+```
+![Profile Views](https://komarev.com/ghpvc/?username=prastianhdd&abbreviated=true&color=blue&style=for-the-badge)
