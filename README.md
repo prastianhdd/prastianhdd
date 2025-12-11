@@ -35,4 +35,4 @@ prastian = {
     "mimpi": "Tercapainya Finansial Freedom 🤲"
 }
 ```
-![Profile Views](https://komarev.com/ghpvc/?username=prastianhdd&abbreviated=true&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=prastianhdd&color=blue&style=for-the-badge)
