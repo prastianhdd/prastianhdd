@@ -35,4 +35,17 @@ prastian = {
     "mimpi": "Tercapainya Finansial Freedom 🤲"
 }
 ```
-![Profile Views](https://komarev.com/ghpvc/?username=prastianhdd&color=blue&style=for-the-badge)
+<hr/>
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=prastianhdd&show_icons=true&locale=en" alt="PrastianHD" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prastianhdd&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<hr/>
